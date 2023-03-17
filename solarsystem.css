@@ -1,0 +1,16 @@
+.container{
+	background-color:   lightblue        ;
+	width: 2000px                     ;
+}
+h1{
+    color: rosybrown;
+}
+p{
+    color: black;
+    width:500px    ;
+}
+
+.solar img{
+   
+    float:right;
+}
